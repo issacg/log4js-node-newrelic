@@ -1,0 +1,29 @@
+{
+  "name": "log4js-node-newrelic",
+  "version": "0.0.0",
+  "description": "An appender for log4js-node which sends errors to NewRelic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log4js",
+    "appender",
+    "newrelic"
+  ],
+  "author": "Issac Goldstand (http://www.beamartyr.net/)",
+  "license": "ASLv2",
+  "dependencies": {
+    "log4js": "~0.6.14",
+    "newrelic": "~1.5.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/issacg/log4js-node-newrelic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/issacg/log4js-node-newrelic/issues"
+  },
+  "homepage": "https://github.com/issacg/log4js-node-newrelic"
+}
